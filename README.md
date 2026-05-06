@@ -13,7 +13,7 @@
 
 GLITCH RUNNER is a browser-based cyberpunk endless runner where you play as a neon-lit android sprinting through a dystopian city. Dodge obstacles, collect energy orbs, and survive as long as possible while the city accelerates around you.
 
-**Built as part of my Game Development Portfolio — CSE Final Year Project**
+**Built as part of my Game Development Portfolio — Experimental GD Setup**
 
 \---
 
