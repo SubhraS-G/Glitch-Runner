@@ -2,7 +2,7 @@
 
 > A cyberpunk endless runner game built with vanilla JavaScript \& HTML5 Canvas
 
-[!\[Play Now](https://img.shields.io/badge/▶%20PLAY%20NOW-Live%20Demo-00ffff?style=for-the-badge)](https://YOUR_USERNAME.github.io/glitch-runner)
+[!\[Play Now](https://img.shields.io/badge/▶%20PLAY%20NOW-Live%20Demo-00ffff?style=for-the-badge)](https://SubhraS-G.github.io/Glitch-Runner)
 !\[HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?style=flat-square\&logo=html5)
 !\[JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square\&logo=javascript)
 !\[No Dependencies](https://img.shields.io/badge/Dependencies-Zero-00ff88?style=flat-square)
